@@ -1,0 +1,16 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"CoffeeCompile",
+		"DocBlockr",
+		"Emmet",
+		"SCSS",
+		"Theme - itg.flat"
+	]
+}
