@@ -15,12 +15,14 @@
 		"Emmet Css Snippets",
 		"HTML-CSS-JS Prettify",
 		"jQuery",
+		"JSX",
 		"Material Theme",
 		"Package Control",
 		"Sass",
 		"SCSS",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-jsxhint",
 		"Theme - itg.flat"
 	]
 }
