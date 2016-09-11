@@ -8,9 +8,19 @@
 		"Better CoffeeScript",
 		"BracketHighlighter",
 		"CoffeeCompile",
+		"CSS Format",
 		"DocBlockr",
+		"EditorConfig",
 		"Emmet",
+		"Emmet Css Snippets",
+		"HTML-CSS-JS Prettify",
+		"jQuery",
+		"Material Theme",
+		"Package Control",
+		"Sass",
 		"SCSS",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"Theme - itg.flat"
 	]
 }
