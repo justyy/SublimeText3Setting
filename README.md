@@ -22,3 +22,6 @@ sublime text 3的Packages
 - CSS Format CSS格式化
 - EditorConfig 编写规范工具
 - JSX
+- Markdown Preview 生成markdown.html
+- MarkdownHighlighting markdown高亮
+- Monokai Extended markdown高亮
